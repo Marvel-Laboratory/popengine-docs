@@ -7,9 +7,8 @@ const config: Config = {
   tagline: 'Recover abandoned carts with time-limited popup coupons',
   favicon: 'img/favicon.ico',
 
-  // For custom domain, change to: url: 'https://docs.lastsecondcoupon.com', baseUrl: '/'
-  url: 'https://Marvel-Laboratory.github.io',
-  baseUrl: '/popengine-docs/',
+  url: 'https://docs.marvel-labs.com',
+  baseUrl: '/',
 
   organizationName: 'Marvel-Laboratory',
   projectName: 'popengine-docs',
