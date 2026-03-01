@@ -7,7 +7,7 @@ const config: Config = {
   tagline: 'Recover abandoned carts with time-limited popup coupons',
   favicon: 'img/favicon.ico',
 
-  url: 'https://docs.marvel-labs.com',
+  url: 'https://popengine-docs.marvel-labs.com',
   baseUrl: '/',
 
   organizationName: 'Marvel-Laboratory',
