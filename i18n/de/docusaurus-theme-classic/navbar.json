@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "Last Second Coupon",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Last Second Coupon Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "Dokumentation",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Admin Guide": {
+    "message": "Admin-Handbuch",
+    "description": "Navbar item with label Admin Guide"
+  },
+  "item.label.Storefront Guide": {
+    "message": "Storefront-Handbuch",
+    "description": "Navbar item with label Storefront Guide"
+  },
+  "item.label.Changelog": {
+    "message": "Änderungsprotokoll",
+    "description": "Navbar item with label Changelog"
+  },
+  "item.label.Website": {
+    "message": "Webseite",
+    "description": "Navbar item with label Website"
+  },
+  "item.label.Support": {
+    "message": "Support",
+    "description": "Navbar item with label Support"
+  }
+}

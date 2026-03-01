@@ -1,0 +1,53 @@
+{
+  "link.title.Documentation": {
+    "message": "Dokumentation",
+    "description": "The title of the footer links column with title=Documentation"
+  },
+  "link.title.Support": {
+    "message": "Support",
+    "description": "The title of the footer links column with title=Support"
+  },
+  "link.title.Legal": {
+    "message": "Rechtliches",
+    "description": "The title of the footer links column with title=Legal"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Erste Schritte",
+    "description": "The label of footer link with label=Getting Started"
+  },
+  "link.item.label.Admin Guide": {
+    "message": "Admin-Handbuch",
+    "description": "The label of footer link with label=Admin Guide"
+  },
+  "link.item.label.Storefront Guide": {
+    "message": "Storefront-Handbuch",
+    "description": "The label of footer link with label=Storefront Guide"
+  },
+  "link.item.label.Contact Support": {
+    "message": "Support kontaktieren",
+    "description": "The label of footer link with label=Contact Support"
+  },
+  "link.item.label.FAQ": {
+    "message": "FAQ",
+    "description": "The label of footer link with label=FAQ"
+  },
+  "link.item.label.Troubleshooting": {
+    "message": "Fehlerbehebung",
+    "description": "The label of footer link with label=Troubleshooting"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Datenschutzerklärung",
+    "description": "The label of footer link with label=Privacy Policy"
+  },
+  "link.item.label.Terms of Service": {
+    "message": "Nutzungsbedingungen",
+    "description": "The label of footer link with label=Terms of Service"
+  },
+  "link.item.label.Imprint": {
+    "message": "Impressum",
+    "description": "The label of footer link with label=Imprint"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Last Second Coupon. Alle Rechte vorbehalten."
+  }
+}

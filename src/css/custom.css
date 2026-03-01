@@ -1,0 +1,63 @@
+:root {
+  --ifm-color-primary: #0063d4;
+  --ifm-color-primary-dark: #0059bf;
+  --ifm-color-primary-darker: #0054b4;
+  --ifm-color-primary-darkest: #004594;
+  --ifm-color-primary-light: #006de9;
+  --ifm-color-primary-lighter: #0073f4;
+  --ifm-color-primary-lightest: #1a84ff;
+  --ifm-code-font-size: 95%;
+  --ifm-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  --ifm-heading-font-weight: 700;
+  --ifm-line-height-base: 1.7;
+  --ifm-spacing-horizontal: 1.2rem;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #4d9fff;
+  --ifm-color-primary-dark: #2d8dff;
+  --ifm-color-primary-darker: #1d84ff;
+  --ifm-color-primary-darkest: #0070f0;
+  --ifm-color-primary-light: #6db1ff;
+  --ifm-color-primary-lighter: #7db9ff;
+  --ifm-color-primary-lightest: #add5ff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Content width for readability */
+.markdown {
+  max-width: 800px;
+}
+
+/* Clean admonitions */
+.admonition {
+  border-radius: 8px;
+}
+
+/* Cleaner table styles */
+.markdown table {
+  display: table;
+  width: 100%;
+}
+
+.markdown table th {
+  font-weight: 600;
+}
+
+/* Image styles */
+.markdown img {
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  cursor: zoom-in;
+}
+
+[data-theme='dark'] .markdown img {
+  border-color: var(--ifm-color-emphasis-400);
+}
+
+/* Footer */
+.footer--dark {
+  --ifm-footer-background-color: var(--ifm-color-emphasis-100);
+}

@@ -1,0 +1,41 @@
+{
+  "homepage.feature.easySetup.title": {
+    "message": "Einfache Einrichtung"
+  },
+  "homepage.feature.easySetup.description": {
+    "message": "Installieren Sie die App aus dem Shopware Store und beginnen Sie in wenigen Minuten, abgebrochene Warenkörbe zu konvertieren. Keine Programmierkenntnisse erforderlich."
+  },
+  "homepage.feature.adminFeatures.title": {
+    "message": "Admin-Funktionen"
+  },
+  "homepage.feature.adminFeatures.description": {
+    "message": "Gestalten Sie Popups mit einem Drag-and-Drop-Editor, konfigurieren Sie Rabatte und verfolgen Sie die Leistung mit integrierten Analysen."
+  },
+  "homepage.feature.storefrontExperience.title": {
+    "message": "Storefront-Erlebnis"
+  },
+  "homepage.feature.storefrontExperience.description": {
+    "message": "Intelligente Exit-Intent-Erkennung, Countdown-Timer und Ein-Klick-Gutscheinanwendung für Ihre Kunden."
+  },
+  "homepage.feature.learnMore": {
+    "message": "Mehr erfahren"
+  },
+  "homepage.hero.getStarted": {
+    "message": "Erste Schritte"
+  },
+  "homepage.layout.title": {
+    "message": "Dokumentation"
+  },
+  "homepage.layout.description": {
+    "message": "Last Second Coupon Dokumentation — Abgebrochene Warenkörbe mit zeitlich begrenzten Popup-Gutscheinen für Shopware 6 zurückgewinnen"
+  },
+  "theme.NotFound.title": {
+    "message": "Seite nicht gefunden"
+  },
+  "theme.NotFound.p1": {
+    "message": "Wir konnten nicht finden, wonach Sie gesucht haben."
+  },
+  "theme.NotFound.p2": {
+    "message": "Bitte kontaktieren Sie den Eigentümer der Seite, die Sie auf die ursprüngliche URL verlinkt hat, und teilen Sie ihm mit, dass der Link nicht funktioniert."
+  }
+}

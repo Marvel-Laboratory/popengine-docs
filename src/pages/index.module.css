@@ -1,0 +1,75 @@
+.heroBanner {
+  padding: 6rem 0 4rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--ifm-color-primary) 0%, #0047a3 100%);
+  color: #fff;
+}
+
+[data-theme='dark'] .heroBanner {
+  background: linear-gradient(135deg, #001f4d 0%, #003380 100%);
+}
+
+.heroTitle {
+  font-size: 3rem;
+  color: #fff;
+}
+
+.heroSubtitle {
+  font-size: 1.4rem;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  color: #fff;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 3rem 1.5rem;
+  }
+
+  .heroTitle {
+    font-size: 2rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.1rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons a {
+  background: #fff;
+  color: var(--ifm-color-primary);
+  border-color: #fff;
+  font-weight: 600;
+}
+
+.buttons a:hover {
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--ifm-color-primary-dark);
+}
+
+.features {
+  display: flex;
+  align-items: stretch;
+  padding: 3rem 0;
+  width: 100%;
+}
+
+.featureCard {
+  text-align: center;
+  padding: 2rem 1.5rem;
+  height: 100%;
+}
+
+.featureIcon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
